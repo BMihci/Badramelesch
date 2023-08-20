@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Badramelesch
 - 👀 I’m interested in Game Desing
-- 🌱 I’m currently learning Python an Godot Engine
+- 🌱 I’m currently learning C# 
